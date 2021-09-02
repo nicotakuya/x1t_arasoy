@@ -4,6 +4,8 @@
 
 this is game of X1 turbo(japanese old PC).
 
+2人対戦専用ゲーム。
+
 ## memo
 
 題名:「イタリアンフィーバー アラソーイ」
